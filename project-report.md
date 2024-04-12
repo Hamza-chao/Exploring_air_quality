@@ -4,4 +4,4 @@
    
 Due: Apr 12 by 11:59 pm
 
-## Exploring Environmental Trends: Air Quality and Commuting Patterns across States
+## Exploring Environmental Trends: Air Quality and Commuting Patterns Across States
