@@ -16,5 +16,5 @@ For this project, I utilized four distinct datasets:
 
 4. State Codes Dataset: This dataset, retrieved from [OpenDataSoft](https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-state/export/?flg=en-us&disjunctive.ste_code&disjunctive.ste_name&sort=year), provides information on state codes necessary for geographical mapping and analysis.
 
-## II. Questions
-1- What is the correlation between commute mode and air pollution levels from 2000 to 2016?
+### II. Questions
+ #### 1- What is the correlation between commute mode and air pollution levels from 2000 to 2016?
