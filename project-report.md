@@ -5,7 +5,7 @@
 Due: Apr 12 by 11:59 pm
 
 ## Exploring Environmental Trends: Air Quality and Commuting Patterns Across States
-### I) Datasets: 
+### I. Datasets: 
 For this project, I utilized four distinct datasets:
 
 1. Air Pollution Dataset: This dataset, available at [Data Society](https://data.world/data-society/us-air-pollution-data), provides comprehensive information on air pollution across the United States.
@@ -15,3 +15,6 @@ For this project, I utilized four distinct datasets:
 3. Population Datasets: Population data spanning from 2000 to 2016 were obtained from the U.S. Census Bureau's [Population Estimates Program](https://www2.census.gov/programs-surveys/popest/datasets/), facilitating demographic analysis.
 
 4. State Codes Dataset: This dataset, retrieved from [OpenDataSoft](https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-state/export/?flg=en-us&disjunctive.ste_code&disjunctive.ste_name&sort=year), provides information on state codes necessary for geographical mapping and analysis.
+
+## II. Questions
+1- What is the correlation between commute mode and air pollution levels from 2000 to 2016?
