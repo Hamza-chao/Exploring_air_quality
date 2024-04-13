@@ -119,3 +119,11 @@ For these charts, my goal was to illustrate the distribution of various pollutan
 Final Thoughts
 
 For these charts, I aimed to enhance clarity by implementing a dropdown menu selection feature. To achieve this, I needed to transpose certain columns into rows, preparing them for integration with the dropdown option.
+
+### References
+
+[https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html](https://altair-viz.github.io/)
+[https://seaborn.pydata.org/tutorial/objects_interface.html](https://seaborn.pydata.org/)
+[https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
+[https://www.data-to-viz.com/graph/density2d.html](https://www.data-to-viz.com/graph/density2d.html)
+[https://pandas.pydata.org/docs/index.html](https://pandas.pydata.org/docs/index.html)
