@@ -58,26 +58,30 @@ a. Subquestion: Is there a relationship between commute mode choice and specific
 
 Link to the chart: https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=acb2fe48-33f6-46e4-a902-22a96a00af21&line=4&uniqifier=1
 
-First Idiom: Density Chart / Mark: Point
+First Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| population of green modes | quantitative | vertical spatial region (y-axis) |
-| Year | quantitative | horizontal position on a common scale (x-axis) |
+| NO2 AQI | quantitative | vertical spatial region (y-axis),color |
+| Drove alone| quantitative | horizontal position on a common scale (x-axis),color |
 
-Second Idiom: Density Chart / Mark: Point
+Second Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| Pollutants Mean | quantitative | vertical spatial region (y-axis) |
-| Date Local | temporal | horizontal position on a common scale (x-axis) |
+| O3 AQI | quantitative | vertical spatial region (y-axis),color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
 
-Third Idiom: Density Chart / Mark: Point
+Third Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| population of green modes | quantitative | vertical spatial region (y-axis) |
-| Year | temporal | horizontal position on a common scale (x-axis) |
+| SO2 AQI | quantitative | vertical spatial region (y-axis),color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
 
-Fourth Idiom: Density Chart / Mark: Point
+Fourth Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| Pollutants Mean | quantitative | vertical spatial region (y-axis) |
-| Date Local | temporal | horizontal position on a common scale (x-axis) |
+| CO AQI | quantitative | vertical spatial region (y-axis),color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
+
+Explanation
+
+The hexbin plots aimed to assess whether solo driving correlates with pollutant levels. By analyzing driving populations across all states from 2000 to 2016, I created hexbin charts to pinpoint concentration areas. However, the results were inconclusive. While SO2 AQI and CO AQI plots indicated concentration in regions with lower AQI values and driving populations, NO3 AQI and O3 AQI charts showed increased AQI levels despite consistent driving populations. This suggests no direct link between pollutant AQIs and solo driving populations, possibly due to other factors like industrial gas emissions.
