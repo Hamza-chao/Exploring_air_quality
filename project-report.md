@@ -51,7 +51,33 @@ Additionally, I encountered the need to merge the commute modes dataset with a p
 
 a. Subquestion: Is there a relationship between commute mode choice and specific air pollutants?
 
-![](https://i.ibb.co/SPrM4C6/charts3.png)![](https://i.ibb.co/pQXH8jy/chart2.png)
+![](https://i.ibb.co/SPrM4C6/charts3.png)
+![](https://i.ibb.co/pQXH8jy/chart2.png)
 ![](https://i.ibb.co/BBCLQ83/charts1.png)
 ![](https://i.ibb.co/y0mBz6t/charts.png)
 
+Link to the chart: https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=acb2fe48-33f6-46e4-a902-22a96a00af21&line=4&uniqifier=1
+
+First Idiom: Density Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| population of green modes | quantitative | vertical spatial region (y-axis) |
+| Year | temporal | horizontal position on a common scale (x-axis) |
+
+Second Idiom: Density Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| Pollutants Mean | quantitative | vertical spatial region (y-axis) |
+| Date Local | temporal | horizontal position on a common scale (x-axis) |
+
+Third Idiom: Density Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| population of green modes | quantitative | vertical spatial region (y-axis) |
+| Year | temporal | horizontal position on a common scale (x-axis) |
+
+Fourth Idiom: Line Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| Pollutants Mean | quantitative | vertical spatial region (y-axis) |
+| Date Local | temporal | horizontal position on a common scale (x-axis) |
