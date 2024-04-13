@@ -35,7 +35,7 @@ Right Idiom: Line Chart / Mark: Line
 | Pollutants Mean | quantitative | vertical spatial region (y-axis) |
 | Date Local | temporal | horizontal position on a common scale (x-axis) |
 
-##### Explanation
+Explanation
 
 &nbsp;&nbsp;&nbsp;&nbsp;I think this chart effectively demonstrates the connection between pollutants and commute modes. I focused on "green modes" of transportation, which include options like public transportation, cycling, walking, remote work, carpooling, taxi usage, and other eco-friendly alternatives. These modes are generally considered less harmful to the environment compared to driving alone.
 
@@ -43,7 +43,7 @@ Covering a span of 16 years from 2000 to 2016, the chart allows us to observe ho
 
 The results were unexpected; they contradicted the anticipated outcome. Despite an increase in the usage of green transportation modes in some states, there wasn't a consistent decrease in pollutant levels. This suggests the presence of other factors influencing air quality instability.
 
-##### Final Thoughts
+Final Thoughts
 
 &nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented challenges, particularly in visualizing the data effectively due to the large number of states involved (50 in total). To address this issue, I discovered a solution using Altair that allowed me to implement a dropdown menu. This feature enables users to select a specific state and view the visualizations accordingly, ensuring clarity and ease of interpretation.
 
