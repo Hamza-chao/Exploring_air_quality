@@ -43,6 +43,7 @@ Covering a span of 16 years from 2000 to 2016, the chart allows us to observe ho
 The results were unexpected; they contradicted the anticipated outcome. Despite an increase in the usage of green transportation modes in some states, there wasn't a consistent decrease in pollutant levels. This suggests the presence of other factors influencing air quality instability.
 
 <ins>Final Thoughts<ins>
+
 &nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented challenges, particularly in visualizing the data effectively due to the large number of states involved (50 in total). To address this issue, I discovered a solution using Altair that allowed me to implement a dropdown menu. This feature enables users to select a specific state and view the visualizations accordingly, ensuring clarity and ease of interpretation.
 
 Additionally, I encountered the need to merge the commute modes dataset with a population dataset for normalization purposes. This step was crucial to ensure accurate comparisons and meaningful insights across different states and years.
