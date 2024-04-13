@@ -36,8 +36,8 @@ Right Idiom: Line Chart / Mark: Line
 
 <ins>Explanation<ins>
 
-&nbsp;&nbsp;&nbsp;&nbsp;I believe this chart effectively illustrates the relationship between pollutants and commute modes. For this visualization, I focused on 'green modes' of transportation, covering some options such as public transportation, cycling, walking, working from home, carpooling, taxi usage, and other environmentally friendly modes. These modes are perceived to be less pollutant-intensive compared to driving alone.
+&nbsp;&nbsp;&nbsp;&nbsp;I think this chart effectively demonstrates the connection between pollutants and commute modes. I focused on "green modes" of transportation, which include options like public transportation, cycling, walking, remote work, carpooling, taxi usage, and other eco-friendly alternatives. These modes are generally considered less harmful to the environment compared to driving alone.
 
-The chart spans 16 years from 2000 to 2016, allowing for an examination of how the utilization of these modes has evolved over time. On the other hand, The second chart explores the "average pollutants," which include gases such as NO2, SO2, CO, and O3, which are significant contributors to air pollution. Similarly spanning the same 16-year period, this chart aims to discern any correlations between the two datasets.
+Covering a span of 16 years from 2000 to 2016, the chart allows us to observe how the adoption of these modes has changed over time. On the other hand, the second chart examines the "average pollutants," encompassing gases such as NO2, SO2, CO, and O3, all significant contributors to air pollution. Also spanning the same 16-year period, this chart seeks to uncover any correlations between the two datasets.
 
-The results were unexpected; they went against what was anticipated, an increase in the usage of green transportation modes did not consistently correspond with a decrease in pollutant levels. This suggests the presence of other influential factors contributing to air quality instability.
+The results were unexpected; they contradicted the anticipated outcome. Despite an increase in the usage of green transportation modes in some states, there wasn't a consistent decrease in pollutant levels. This suggests the presence of other factors influencing air quality instability.
