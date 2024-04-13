@@ -84,4 +84,8 @@ Fourth Idiom: hexbin plot  / Mark: Point
 
 Explanation
 
-The hexbin plots aimed to assess whether solo driving correlates with pollutant levels. By analyzing driving populations across all states from 2000 to 2016, I created hexbin charts to pinpoint concentration areas. However, the results were inconclusive. While SO2 AQI and CO AQI plots indicated concentration in regions with lower AQI values and driving populations, NO3 AQI and O3 AQI charts showed increased AQI levels despite consistent driving populations. This suggests no direct link between pollutant AQIs and solo driving populations, possibly due to other factors like industrial gas emissions.
+&nbsp;&nbsp;&nbsp;&nbsp;The hexbin plots aimed to assess whether solo driving correlates with pollutant levels. By analyzing driving populations across all states from 2000 to 2016, I created hexbin charts to pinpoint concentration areas. However, the results were inconclusive. While SO2 AQI and CO AQI plots indicated concentration in regions with lower AQI values and driving populations, NO3 AQI and O3 AQI charts showed increased AQI levels despite consistent driving populations. This suggests no direct link between pollutant AQIs and solo driving populations, possibly due to other factors like industrial gas emissions.
+
+Final Thoughts
+&nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented several challenges. Initially, I had to merge multiple datasets, with the first merge focusing on normalizing the driving-alone population data. Following that, I merged it with the pollutant dataset. After merging, I needed to clean the data to ensure accuracy. Finally, I visualized the cleaned data using hexbin charts.
+
