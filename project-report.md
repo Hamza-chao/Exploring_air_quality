@@ -51,8 +51,7 @@ Additionally, I encountered the need to merge the commute modes dataset with a p
 
 a. Subquestion: Is there a relationship between commute mode choice and specific air pollutants?
 
-![](https://i.ibb.co/SPrM4C6/charts3.png)
-![](https://i.ibb.co/pQXH8jy/chart2.png)
+![](https://i.ibb.co/SPrM4C6/charts3.png)![](https://i.ibb.co/pQXH8jy/chart2.png)
 ![](https://i.ibb.co/BBCLQ83/charts1.png)
 ![](https://i.ibb.co/y0mBz6t/charts.png)
 
