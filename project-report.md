@@ -35,6 +35,7 @@ Right Idiom: Line Chart / Mark: Line
 | Date Local | temporal | horizontal position on a common scale (x-axis) |
 
 Explanation
+
 I believe this chart effectively illustrates the relationship between pollutants and commute modes. For this visualization, I focused on 'green modes' of transportation, covering some options such as public transportation, cycling, walking, working from home, carpooling, taxi usage, and other environmentally friendly modes. These modes are perceived to be less pollutant-intensive compared to driving alone.
 
 The chart spans 16 years from 2000 to 2016, allowing for an examination of how the utilization of these modes has evolved over time. On the other hand, The second chart explores the "average pollutants," which include gases such as NO2, SO2, CO, and O3, which are significant contributors to air pollution. Similarly spanning the same 16-year period, this chart aims to discern any correlations between the two datasets.
