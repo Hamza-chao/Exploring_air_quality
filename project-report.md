@@ -21,8 +21,15 @@ For this project, I utilized four distinct datasets:
 ![](https://i.ibb.co/cTT2XRm/12-04-2024-19-54-08-REC-ezgif-com-video-to-gif-converter.gif)
 
 Link to the chart: [https://colab.research.google.com/drive/13XR3Mrmnk8zkY_20SsQ4OiFTnDwvUegF#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1](https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1)
-Idiom: Line Chart / Mark: Line
+
+Left Idiom: Line Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | population of green modes | quantitative | vertical spatial region (y-axis) |
 | Year | temporal | horizontal position on a common scale (x-axis) |
+
+Right Idiom: Line Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| Pollutants Mean | quantitative | vertical spatial region (y-axis) |
+| Date Local | temporal | horizontal position on a common scale (x-axis) |
