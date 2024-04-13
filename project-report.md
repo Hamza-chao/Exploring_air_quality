@@ -19,7 +19,7 @@ For this project, I used four distinct datasets:
 
 ### II. Questions
  #### 1- Is there any correlation between the mode of commute and air pollution levels from 2000 to 2016?
-![](https://i.ibb.co/qMSHKJ7/air-ezgif-com-video-to-gif-converter-2.gif)
+![](https://i.ibb.co/KVxXKtP/air-ezgif-com-video-to-gif-converter-4.gif)
 
 Link to the chart: [https://colab.research.google.com/drive/13XR3Mrmnk8zkY_20SsQ4OiFTnDwvUegF#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1](https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1)
 
