@@ -115,3 +115,7 @@ Second Idiom: Choropleth Map plot  / Mark: Geoshape
 Explanation
 
 For these charts, my goal was to illustrate the distribution of various pollutants across all states, as well as the distribution of different commute mode percentages across the states.
+
+Final Thoughts
+
+For these charts, I aimed to enhance clarity by implementing a dropdown menu selection feature. To achieve this, I needed to transpose certain columns into rows, preparing them for integration with the dropdown option.
