@@ -61,26 +61,26 @@ Link to the chart: https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nN
 First Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| NO2 AQI | quantitative | vertical spatial region (y-axis),color |
-| Drove alone| quantitative | horizontal position on a common scale (x-axis),color |
+| NO2 AQI | quantitative | vertical spatial region (y-axis), color |
+| Drove alone| quantitative | horizontal position on a common scale (x-axis), color |
 
 Second Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| O3 AQI | quantitative | vertical spatial region (y-axis),color |
-| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
+| O3 AQI | quantitative | vertical spatial region (y-axis), color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis), color |
 
 Third Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| SO2 AQI | quantitative | vertical spatial region (y-axis),color |
-| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
+| SO2 AQI | quantitative | vertical spatial region (y-axis), color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis), color |
 
 Fourth Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| CO AQI | quantitative | vertical spatial region (y-axis),color |
-| Drove alone | quantitative | horizontal position on a common scale (x-axis),color |
+| CO AQI | quantitative | vertical spatial region (y-axis), color |
+| Drove alone | quantitative | horizontal position on a common scale (x-axis), color |
 
 Explanation
 
