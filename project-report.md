@@ -58,25 +58,25 @@ a. Subquestion: Is there a relationship between commute mode choice and specific
 
 Link to the chart: https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=acb2fe48-33f6-46e4-a902-22a96a00af21&line=4&uniqifier=1
 
-First Idiom: Density Chart / Mark: Line
+First Idiom: Density Chart / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | population of green modes | quantitative | vertical spatial region (y-axis) |
 | Year | quantitative | horizontal position on a common scale (x-axis) |
 
-Second Idiom: Density Chart / Mark: Line
+Second Idiom: Density Chart / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | Pollutants Mean | quantitative | vertical spatial region (y-axis) |
 | Date Local | temporal | horizontal position on a common scale (x-axis) |
 
-Third Idiom: Density Chart / Mark: Line
+Third Idiom: Density Chart / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | population of green modes | quantitative | vertical spatial region (y-axis) |
 | Year | temporal | horizontal position on a common scale (x-axis) |
 
-Fourth Idiom: Line Chart / Mark: Line
+Fourth Idiom: Density Chart / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | Pollutants Mean | quantitative | vertical spatial region (y-axis) |
