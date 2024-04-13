@@ -103,14 +103,12 @@ Commute Modes
 First Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| x coordinates | quantitative | vertical spatial region (y-axis),color |
-| y coordinate | quantitative | horizontal position on a common scale (x-axis),color |
+| Type | MultiPolygon | color |
 
 Second Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| x coordinates | quantitative | vertical spatial region (y-axis),color |
-| y coordinates | quantitative | horizontal position on a common scale (x-axis),color |
+| Type | MultiPolygon | color |
 
 Explanation
 
