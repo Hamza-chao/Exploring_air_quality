@@ -22,13 +22,13 @@ For this project, I utilized four distinct datasets:
 
 Link to the chart: [https://colab.research.google.com/drive/13XR3Mrmnk8zkY_20SsQ4OiFTnDwvUegF#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1](https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1)
 
-Left Idiom: Line Chart / Mark: Line
+<ins>Left Idiom: Line Chart / Mark: Line<ins>
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | population of green modes | quantitative | vertical spatial region (y-axis) |
 | Year | temporal | horizontal position on a common scale (x-axis) |
 
-Right Idiom: Line Chart / Mark: Line
+<ins>Right Idiom: Line Chart / Mark: Line<ins>
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | Pollutants Mean | quantitative | vertical spatial region (y-axis) |
