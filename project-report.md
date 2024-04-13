@@ -1,4 +1,4 @@
-## *Project - CS 625, Spring 2024
+## Project - CS 625, Spring 2024
 
    Mohammed-Hamza Chao
    
