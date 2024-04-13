@@ -49,7 +49,7 @@ Final Thoughts
 
 Additionally, I encountered the need to merge the commute modes dataset with a population dataset for normalization purposes. This step was crucial to ensure accurate comparisons and meaningful insights across different states and years.
 
-a. Subquestion: Is there a relationship between commute mode choice and specific air pollutants?
+##### a. Subquestion: Is there a relationship between commute mode choice and specific air pollutants?
 
 ![](https://i.ibb.co/SPrM4C6/charts3.png=20x20)
 ![](https://i.ibb.co/pQXH8jy/chart2.png=20x20)
