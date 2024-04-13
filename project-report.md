@@ -110,6 +110,7 @@ Second Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | x coordinates | quantitative | vertical spatial region (y-axis),color |
-| x coordinates | quantitative | horizontal position on a common scale (x-axis),color |
+| y coordinates | quantitative | horizontal position on a common scale (x-axis),color |
 
 Explanation
+For these charts, my goal was to illustrate the distribution of various pollutants across all states, as well as the distribution of different commute mode percentages across the states.
