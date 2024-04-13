@@ -90,7 +90,7 @@ Final Thoughts
 
 &nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented several challenges. Initially, I had to merge multiple datasets, with the first merge focusing on normalizing the driving-alone population data. Following that, I merged it with the pollutant dataset. After merging, I needed to clean the data to ensure accuracy. Finally, I visualized the cleaned data using hexbin charts.
 
-####  3. How are commute modes of transportation and air pollution levels distributed across all states?
+####  2. How are commute modes of transportation and air pollution levels distributed across all states?
 
 Air Pollution
 
@@ -99,3 +99,17 @@ Air Pollution
 Commute Modes
 
 ![](https://i.ibb.co/fYF83Nd/commute-ezgif-com-video-to-gif-converter-1.gif)
+
+First Idiom: Choropleth Map plot  / Mark: Geoshape
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| x coordinates | quantitative | vertical spatial region (y-axis),color |
+| y coordinate | quantitative | horizontal position on a common scale (x-axis),color |
+
+Second Idiom: Choropleth Map plot  / Mark: Geoshape
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| x coordinates | quantitative | vertical spatial region (y-axis),color |
+| x coordinates | quantitative | horizontal position on a common scale (x-axis),color |
+
+Explanation
