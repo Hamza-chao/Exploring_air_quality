@@ -62,7 +62,7 @@ First Idiom: Density Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
 | population of green modes | quantitative | vertical spatial region (y-axis) |
-| Year | temporal | horizontal position on a common scale (x-axis) |
+| Year | quantitative | horizontal position on a common scale (x-axis) |
 
 Second Idiom: Density Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
