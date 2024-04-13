@@ -122,8 +122,8 @@ For these charts, I aimed to enhance clarity by implementing a dropdown menu sel
 
 ### References
 
-[https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html](https://altair-viz.github.io/)
-[https://seaborn.pydata.org/tutorial/objects_interface.html](https://seaborn.pydata.org/)
-[https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
-[https://www.data-to-viz.com/graph/density2d.html](https://www.data-to-viz.com/graph/density2d.html)
-[https://pandas.pydata.org/docs/index.html](https://pandas.pydata.org/docs/index.html)
+https://altair-viz.github.io/
+https://seaborn.pydata.org/
+https://matplotlib.org/stable/users/explain/colors/colormaps.html
+https://www.data-to-viz.com/graph/density2d.html
+https://pandas.pydata.org/docs/index.html
