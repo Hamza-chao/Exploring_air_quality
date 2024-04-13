@@ -98,7 +98,7 @@ Air Pollution
 
 Commute Modes
 
-![](https://i.ibb.co/fYF83Nd/commute-ezgif-com-video-to-gif-converter-1.gif)
+![](https://i.ibb.co/dmRZf8s/commute-ezgif-com-video-to-gif-converter.gif)
 
 First Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
