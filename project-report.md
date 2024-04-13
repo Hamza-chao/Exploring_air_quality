@@ -34,7 +34,7 @@ Right Idiom: Line Chart / Mark: Line
 | Pollutants Mean | quantitative | vertical spatial region (y-axis) |
 | Date Local | temporal | horizontal position on a common scale (x-axis) |
 
-Explanation
+####Explanation
 
 I believe this chart effectively illustrates the relationship between pollutants and commute modes. For this visualization, I focused on 'green modes' of transportation, covering some options such as public transportation, cycling, walking, working from home, carpooling, taxi usage, and other environmentally friendly modes. These modes are perceived to be less pollutant-intensive compared to driving alone.
 
