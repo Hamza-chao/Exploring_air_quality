@@ -48,3 +48,10 @@ Final Thoughts
 &nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented challenges, particularly in visualizing the data effectively due to the large number of states involved (50 in total). To address this issue, I discovered a solution using Altair that allowed me to implement a dropdown menu. This feature enables users to select a specific state and view the visualizations accordingly, ensuring clarity and ease of interpretation.
 
 Additionally, I encountered the need to merge the commute modes dataset with a population dataset for normalization purposes. This step was crucial to ensure accurate comparisons and meaningful insights across different states and years.
+a. Subquestion: Is there a relationship between commute mode choice and specific air pollutants?
+
+![](https://i.ibb.co/SPrM4C6/charts3.png)
+![](https://i.ibb.co/pQXH8jy/chart2.png)
+![](https://i.ibb.co/BBCLQ83/charts1.png)
+![](https://i.ibb.co/y0mBz6t/charts.png)
+
