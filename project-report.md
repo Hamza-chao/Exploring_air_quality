@@ -90,7 +90,7 @@ Final Thoughts
 
 &nbsp;&nbsp;&nbsp;&nbsp;Creating these charts presented several challenges. Initially, I had to merge multiple datasets, with the first merge focusing on normalizing the driving-alone population data. Following that, I merged it with the pollutant dataset. After merging, I needed to clean the data to ensure accuracy. Finally, I visualized the cleaned data using hexbin charts.
 
-####  2. How are commute modes of transportation and air pollution levels distributed across all states?
+####  2. How are commute modes of transportation and air pollution levels distributed across all states from 2000 to 2016?
 
 Air Pollution
 
