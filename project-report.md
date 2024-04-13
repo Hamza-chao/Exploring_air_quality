@@ -7,7 +7,7 @@ Due: Apr 12 by 11:59 pm
 ## Exploring Environmental Trends: Air Quality and Commuting Patterns Across States
 
 ### I. Datasets: 
-For this project, I utilized four distinct datasets:
+For this project, I used four distinct datasets:
 
 1. Air Pollution Dataset: This dataset, available at [Data Society](https://data.world/data-society/us-air-pollution-data), provides comprehensive information on air pollution across the United States.
 
