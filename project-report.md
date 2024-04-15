@@ -96,9 +96,13 @@ Air Pollution
 
 ![](https://i.ibb.co/hMb2tvB/air-ezgif-com-video-to-gif-converter.gif)
 
+https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=b4b108ff-7b75-4d9a-9520-4350d77402a4&line=1&uniqifier=1
+
 Commute Modes
 
 ![](https://i.ibb.co/dmRZf8s/commute-ezgif-com-video-to-gif-converter.gif)
+
+https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=433649c2-c3e6-48ac-bdf1-d97ef99e262f&line=14&uniqifier=1
 
 First Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
