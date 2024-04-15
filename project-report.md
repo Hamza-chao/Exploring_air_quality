@@ -4,7 +4,7 @@
    
 Due: Apr 12 by 11:59 pm
 
-## Exploring Environmental Trends: Air Quality and Commuting Patterns Across States
+## Understanding our surroundings: exploring air quality and commuting choices
 
 ### I. Datasets: 
 For this project, I used four distinct datasets:
