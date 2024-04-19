@@ -21,7 +21,6 @@ For this project, I used four distinct datasets:
  #### 1- Is there any correlation between the mode of commute and air pollution levels?
 ![](https://i.ibb.co/KVxXKtP/air-ezgif-com-video-to-gif-converter-4.gif)
 
-Link to the chart: [https://colab.research.google.com/drive/13XR3Mrmnk8zkY_20SsQ4OiFTnDwvUegF#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1](https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=e0f3c810-1fe1-45c6-9090-53624544e825&line=1&uniqifier=1)
 
 Left Idiom: Line Chart / Mark: Line
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
@@ -55,8 +54,6 @@ Additionally, I encountered the need to merge the commute modes dataset with a p
 ![](https://i.ibb.co/pQXH8jy/chart2.png=20x20)
 ![](https://i.ibb.co/BBCLQ83/charts1.png=20x20)
 ![](https://i.ibb.co/y0mBz6t/charts.png=20x20)
-
-Link to the chart: https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=acb2fe48-33f6-46e4-a902-22a96a00af21&line=4&uniqifier=1
 
 First Idiom: hexbin plot  / Mark: Point
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
@@ -96,13 +93,13 @@ Air Pollution
 
 ![](https://i.ibb.co/hMb2tvB/air-ezgif-com-video-to-gif-converter.gif)
 
-https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=b4b108ff-7b75-4d9a-9520-4350d77402a4&line=1&uniqifier=1
+
 
 Commute Modes
 
 ![](https://i.ibb.co/dmRZf8s/commute-ezgif-com-video-to-gif-converter.gif)
 
-https://colab.research.google.com/drive/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U?authuser=2#scrollTo=433649c2-c3e6-48ac-bdf1-d97ef99e262f&line=14&uniqifier=1
+
 
 First Idiom: Choropleth Map plot  / Mark: Geoshape
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
@@ -121,6 +118,17 @@ For these charts, my goal was to illustrate the distribution of various pollutan
 Final Thoughts
 
 For these charts, I aimed to enhance clarity by implementing a dropdown menu selection feature. To achieve this, I needed to transpose certain columns into rows, preparing them for integration with the dropdown option.
+
+### Links
+
+Code: https://drive.google.com/file/d/1mmQuAl0U9vuQReWKF-nNkd4-K1Ah1U8U/view?usp=sharing
+Raw Datasets:
+* https://media.githubusercontent.com/media/Hamza-chao/CS625_Project/main/uspollution_pollution_us_2000_2016.csv
+* https://media.githubusercontent.com/media/Hamza-chao/CS625_Project/main/Commute_mode.csv
+* https://media.githubusercontent.com/media/Hamza-chao/CS625_Project/main/2000-2010.csv
+* https://media.githubusercontent.com/media/Hamza-chao/CS625_Project/main/2010-2016.csv
+* https://media.githubusercontent.com/media/Hamza-chao/CS625_Project/main/state_codes.csv
+
 
 ### References
 
